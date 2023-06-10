@@ -21,6 +21,11 @@ header {
     margin-left: 20px;
 }
 
+.logo img {
+    width: 150px;  /* adjust as needed */
+    height: auto;  /* maintains aspect ratio */
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
